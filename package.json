@@ -1,0 +1,14 @@
+{
+  "name": "hl7-fhir",
+  "main": "main.js",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
